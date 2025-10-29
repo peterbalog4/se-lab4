@@ -1,0 +1,2 @@
+# Create a ship with incorrect data
+GT4500,-2,0,-2,0
